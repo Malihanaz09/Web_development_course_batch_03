@@ -1,0 +1,13 @@
+body{
+    background-image: url(./most-beautiful-place.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    border: 2px solid black;
+    margin: 50px 10px;
+    padding: 20px 40px;
+    border-radius: 0 20px;
+    display: inline-block;
+    width: 300px;
+}

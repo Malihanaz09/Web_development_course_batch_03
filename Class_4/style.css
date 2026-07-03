@@ -1,0 +1,24 @@
+*{
+    background-color: #ede20c;
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    color: rgb(237, 12, 147);
+    line-height: 50px;
+    text-transform: capitalize;
+}
+#heading-2{
+    background-color: white;
+    text-decoration: underline;
+    font-weight: 800;
+}
+.para{
+    background-color: aqua;
+}
+a{
+    text-decoration: none;
+}
